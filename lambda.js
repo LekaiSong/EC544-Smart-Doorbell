@@ -19,4 +19,23 @@ exports.handler = function(event, context) {
         }
     });
     
-};
+    
+    AWS.config.update({
+    //ccessKeyId: amazonKey,
+    //secretAccessKey: amazonSecret,
+    region: 'us-east-1'});
+ 
+    const sns = new AWS.SNS();
+    const params1 = {
+        Message: 'knock knock',
+        PhoneNumber: '123456789012',
+        // topic: 'freertos/demos/echo',
+        // payload:  `${"RUN"}`,
+        // qos: 0
+    };
+    sns.publish(params1, function(err, data) {
+        if (err){ // an error occurred
+            console.log(err, err.stack);
+    }   else { // successful response
+    }
+    });
