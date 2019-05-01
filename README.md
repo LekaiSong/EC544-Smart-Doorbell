@@ -24,7 +24,7 @@ lambda.js is a nodejs file which should be set up in AWS IoT lambda function.
 
 frdmk64f_aws_device_configuration_enet is a folder of configuration of freedom board.
 
-FinalProjectDemo.mp4 and FinalProjectReport.docx shows more details on the devices and codes.
+FinalProjectDemo.mp4 and FinalProjectReport.docx show more details on the devices and codes.
 
 ## Run the code
 Unzip frdmk64f_aws_device_configuration_enet.zip and REPLACE the origin files.
