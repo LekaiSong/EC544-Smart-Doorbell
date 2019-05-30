@@ -1,4 +1,4 @@
-# EC544-Smart-Doorbell
+# EC544-SmartDoorbell
 
 The goal of our project is to build a secure smart doorbell. There are several similar products like Dropcam, Nest Cam Indoor which are able to help you look after your home and family even when you are not at home. While these products are expensive and they may not have some of the function that we want. What if we want a smart doorbell which can recognize the person who is pressing the doorbell, and if this person has access in our database, door will open automatically. The user will receive a notification message and email at the same time. We are still working on realizing the function that the Pi will send the image to user’s phone and user can send a signal to open the door when recognition fails.
 
