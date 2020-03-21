@@ -34,3 +34,16 @@ Python subscribe.py (before that, add the paths of your own certificate, key, Ro
 Press IoT button. 
 
 If Picamera recognizes the person, the light of freedom board will turn green. Otherwise, it remains red.
+
+### References
+https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
+https://zhuanlan.zhihu.com/p/46032511
+https://shumeipai.nxez.com/2018/03/09/real-time-face-recognition-an-end-to-end-project-with-raspberry-pi.html#comment-58608
+https://oldpan.me/ai-funny-news/face-detect-run-on-raspberry
+https://www.jianshu.com/p/96be2417cc98
+https://www.jianshu.com/p/2e65f641e4fc?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+https://github.com/LiuXiaolong19920720/recognise-your-own-face
+http://www.cirmall.com/bbs/thread-98337-1-1.html
+
+https://medium.com/@julsimon/how-to-configure-an-aws-iot-button-7f43919afd97
+https://www.jianshu.com/p/8cef6d1ed12b
