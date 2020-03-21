@@ -46,7 +46,7 @@ https://oldpan.me/ai-funny-news/face-detect-run-on-raspberry
 
 https://www.jianshu.com/p/96be2417cc98
 
-https://www.jianshu.com/p/2e65f641e4fc？utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+https://www.jianshu.com/p/2e65f641e4fc?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 
 https://github.com/LiuXiaolong19920720/recognise-your-own-face
 
